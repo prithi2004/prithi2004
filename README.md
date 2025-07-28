@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Wordpress,Mysql**
 
-- 👨‍💻 All of my projects are available at [https://protfolioprithi.netlify.app/](https://protfolioprithi.netlify.app/)
+- 👨‍💻 My portfolio [https://protfolioprithi.netlify.app/](https://protfolioprithi.netlify.app/)
 
 - 💬 Ask me about **React.js,javascript**
 
 - 📫 How to reach me **prithibabu60@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1V5Q8Po8GdNbjzU5KySZR1FK-5uadg9dQ/view?usp=drivesdk](https://drive.google.com/file/d/1V5Q8Po8GdNbjzU5KySZR1FK-5uadg9dQ/view?usp=drivesdk)
+- 📄 My updated resume [https://drive.google.com/file/d/1V5Q8Po8GdNbjzU5KySZR1FK-5uadg9dQ/view?usp=drivesdk](https://drive.google.com/file/d/1V5Q8Po8GdNbjzU5KySZR1FK-5uadg9dQ/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
