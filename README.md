@@ -1,53 +1,108 @@
 <h1 align="center">Hey 👋, I'm Prithi Babu</h1>
-<h3 align="center">💻 Web Developer | 🌐 WordPress Enthusiast | 📍 India</h3>
+<h3 align="center">💻 Web Developer | 🎯 rtCamp Aspirant | 🌐 WordPress + PHP Developer | 📍 India</h3>
 
 ---
 
-### 🚀 About Me
+## 🔍 About Me
 
-- 🔭 I’m currently building **custom WordPress websites & plugins**
-- 🌱 Learning **PHP**, **JavaScript**, **MySQL**, and **WordPress Development**
-- 🎯 Goal: Join **rtCamp** as an **Associate Software Engineer**
-- 🛠 I love working on open-source, solving real-world problems, and contributing to developer communities.
+🎓 I’m a final year B.Tech student passionate about building websites that are fast, responsive, and meaningful.
+
+🌟 My focus is on:
+- **Custom WordPress Development** (themes & plugins)
+- **Open-source contributions**
+- **Full-stack projects using PHP, JavaScript, MySQL**
+
+🎯 I’m actively preparing to join **rtCamp** as an **Associate Software Engineer** and aligning my GitHub, skills, and contributions accordingly.
 
 ---
 
-### 🧰 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+| Frontend | Backend | CMS | Database | Tools |
+|----------|---------|-----|----------|-------|
+| HTML, CSS, JS | PHP | WordPress | MySQL | Git, GitHub, VS Code |
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+## 📌 Top Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🍴 Food Blog Website](https://github.com/prithi2004/Wordpress-Projects/tree/main/Food%20blog%20wordpress-project) | A beautiful WordPress food blog using free theme & plugins | WordPress, PHP |
-| [🍽 Restaurant Website](https://github.com/prithi2004/Wordpress-Projects/tree/main/Restaurant%20wordpress%20project) | Responsive restaurant website built with WordPress | WordPress, CSS |
-| [🧠 Quiz App](https://github.com/prithi2004/Quiz-App-JS) | Fun interactive quiz built with vanilla JS | JavaScript, HTML, CSS |
-| [🌦 Weather App](https://github.com/prithi2004/Weather-App-JS) | Real-time weather app using OpenWeather API | JavaScript, API |
-| [💼 Portfolio Website](https://github.com/prithi2004/portfolio) | Personal portfolio built with HTML/CSS/JS | HTML, CSS, JS |
+### 🥇 [Food Blog WordPress Project](https://github.com/prithi2004/Wordpress-Projects/tree/main/Food%20blog%20wordpress-project)
+A custom WordPress food blog using free theme and plugins. Includes:
+- Custom homepage sections
+- Blog archive
+- Contact form using WPForms
+
+> 🛠 Tech: WordPress, PHP, Elementor, WPForms
 
 ---
 
-### 📈 GitHub Stats
+### 🥈 [Restaurant Website](https://github.com/prithi2004/Wordpress-Projects/tree/main/Restaurant%20wordpress%20project)
+A fully responsive restaurant site made with WordPress. Features:
+- Menu section
+- Table reservation form
+- Reviews and gallery
+
+> 🛠 Tech: WordPress, HTML, CSS, Plugin Integration
+
+---
+
+### 🧠 [Quiz App – JavaScript](https://github.com/prithi2004/Quiz-App-JS)
+An interactive quiz app using vanilla JS with:
+- Timer
+- Score system
+- Dynamic question loading
+
+> 🛠 Tech: JavaScript, HTML5, CSS3
+
+---
+
+### 🌦️ [Weather App – JS + API](https://github.com/prithi2004/Weather-App-JS)
+Real-time weather dashboard using the OpenWeather API:
+- Fetches live weather by city
+- Responsive design
+- Clean UI/UX
+
+> 🛠 Tech: JavaScript, REST API, Bootstrap
+
+---
+
+## 📚 What I'm Learning Now
+
+- 🔁 REST API Integration in WordPress
+- 🔌 Creating custom plugins & widgets
+- 🎨 WordPress Theme Structure & Template Hierarchy
+- 📦 GitHub Contributions & Open Source PRs
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prithi2004&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prithi2004&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prithi2004&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prithi2004&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 🧭 Career Goals
+
+- ✅ Build high-quality WordPress projects
+- ✅ Increase open-source contributions (PRs, Issues)
+- ✅ Join a product-based company like **rtCamp**
+- ✅ Grow as a full-stack web developer
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/prithi2004">
@@ -60,8 +115,8 @@
 
 ---
 
-### 💡 Quote of the Day
+## 🌱 Quote of the Day
 
-> *"Consistency is what transforms average into excellence."*  
-> — Inspired to keep contributing daily 💚
+> *“Success doesn't come from what you do occasionally, it comes from what you do consistently.”*  
+> Let’s commit today 💚
 
