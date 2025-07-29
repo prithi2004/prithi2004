@@ -5,7 +5,7 @@
 
 ## 🔍 About Me
 
-🎓 I’m a final year B.Tech student passionate about building websites that are fast, responsive, and meaningful.
+🎓 I’m a final year B.E student passionate about building websites that are fast, responsive, and meaningful.
 
 🌟 My focus is on:
 - **Custom WordPress Development** (themes & plugins)
@@ -65,15 +65,7 @@ An interactive quiz app using vanilla JS with:
 
 ---
 
-### 🌦️ [Weather App – JS + API](https://github.com/prithi2004/Weather-App-JS)
-Real-time weather dashboard using the OpenWeather API:
-- Fetches live weather by city
-- Responsive design
-- Clean UI/UX
 
-> 🛠 Tech: JavaScript, REST API, Bootstrap
-
----
 
 ## 📚 What I'm Learning Now
 
