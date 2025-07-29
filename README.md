@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Prithi Babu</h1>
-<h3 align="center">💻 Web Developer | 🎯 rtCamp Aspirant | 🌐 WordPress + PHP Developer | 📍 India</h3>
+<h3 align="center">💻 Web Developer  | 🌐 WordPress + PHP Developer | 📍 India</h3>
 
 ---
 
