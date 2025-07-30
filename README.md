@@ -13,7 +13,7 @@
 - **Full-stack projects using PHP, JavaScript, MySQL**
 
 🎯 I’m actively preparing to join **rtCamp** as an **Associate Software Engineer** and aligning my GitHub, skills, and contributions accordingly.
-
+- Myportfolio https://prithi-portfolio.netlify.app/
 ---
 
 ## 🛠️ Tech Stack
