@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Prithi Babu</h1>
+<h1 align="center">Hey 👋, I'm Prithi </h1>
 <h3 align="center">💻 Web Developer  | 🌐 WordPress + PHP Developer | 📍 India</h3>
 
 ---
