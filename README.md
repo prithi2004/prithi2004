@@ -49,7 +49,7 @@
 
 - 📧 Email: prithibabu2004@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/prithi-babu/)
-- 🗂️ [My GitHub Portfolio Projects](https://github.com/prithi2004?tab=repositories)
+- 🗂️ [My own portfolio](https://prithi-portfolio.netlify.app/)
 
 ---
 
