@@ -14,7 +14,6 @@
 - 🔭 I’m currently building **WordPress Projects** (themes/plugins)
 - 🌱 I’m learning **PHP, MySQL, WordPress REST API, and JavaScript**
 - 💬 Ask me about WordPress development and GitHub
-- 👀 My goal is to join [rtCamp](https://rtcamp.com/) as an Associate Software Engineer
 - 🛠 I'm participating in open-source contributions actively
 
 ---
