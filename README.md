@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **prithibabu60@gmail.com**
 
-- 📄 My resume  [[https://drive.google.com/file/d/1V5Q8Po8GdNbjzU5KySZR1FK-5uadg9dQ/view?usp=drivesdk](https://drive.google.com/file/d/1V5Q8Po8GdNbjzU5KySZR1FK-5uadg9dQ/view?usp=drivesdk)
-](https://drive.google.com/file/d/1c_9T9ZmdE_fNh8LRPAKi81mZH9IGC1n8/view?usp=drivesdk)
+- 📄 My resume  [[[https://drive.google.com/file/d/1V5Q8Po8GdNbjzU5KySZR1FK-5uadg9dQ/view?usp=drivesdk](https://drive.google.com/file/d/1V5Q8Po8GdNbjzU5KySZR1FK-5uadg9dQ/view?usp=drivesdk)
+](https://drive.google.com/file/d/1c_9T9ZmdE_fNh8LRPAKi81mZH9IGC1n8/view?usp=drivesdk)](https://drive.google.com/file/d/1c_9T9ZmdE_fNh8LRPAKi81mZH9IGC1n8/view?usp=drivesdk)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
