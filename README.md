@@ -27,3 +27,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithi2004&show_icons=true&locale=en" alt="prithi2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithi2004&" alt="prithi2004" /></p>
+
+
+## 🧩 Fun Fact
+
+I'm a chess enthusiast 🧠 and enjoy participating in coding hackathons and DS-algorithms challenges.  
+
+---
+
+## 📚 What You’ll Find Here
+
+- Clean, well-documented repos with comprehensive README files  
+- Consistent and meaningful commit history  
+- Active contributions to open-source projects (issue/PRs welcome!)
+
+---
+
+*Let's connect! I’m open to collaboration, internships, or project ideas. 😊*
