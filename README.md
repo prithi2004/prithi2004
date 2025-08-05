@@ -1,55 +1,68 @@
-<h1 align="center">Hi 👋, I'm Prithi Babu</h1>
+# 👋 Hi there, I'm [Prithi.B]
 
-<p align="center">
-  🌱 Aspiring Software Engineer | Beginner WordPress Developer  
-  <br>
-  💻 Passionate about Web Development, Open Source, and PHP/JS
-  <br><br>
-</p>
+🎓 Final-year Computer Science student at **[Dhaanish Ahmed Institute of Technology]**  
+💻 Passionate about building efficient software and solving real-world problems  
+🌱 Learning [technologies you’re exploring, wordpress,MySQl]
 
 ---
 
-## 👩‍💻 About Me
+## 🧠 Skills & Tools
 
-- 🔭 I’m currently building **WordPress Projects** (themes/plugins)
-- 🌱 I’m learning **PHP, MySQL, WordPress REST API, and JavaScript**
-- 💬 Ask me about WordPress development and GitHub
-- 🛠 I'm participating in open-source contributions actively
-
----
-
-## 🧰 My Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,wordpress,git,github,vscode,figma" />
-</p>
+| Programming     | Frameworks       | Databases      | Tools                 |
+|-----------------|------------------|----------------|------------------------|
+| Java, Python, C++ | React, Flask     | MySQL, SQLite | Git, Docker, VS Code |
 
 ---
 
-## 🧩 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🎉 Custom Event Manager Plugin](https://github.com/prithi2004/Custom-Event-manager-Wordpress-project) | A WordPress plugin to manage and display custom events. | WordPress, PHP |
-| [🍽️ Food Blog Website](https://github.com/prithi2004/Food-blog-wordpress-project) | A responsive blog for food lovers built with a theme and plugins. | WordPress, Elementor |
-| [🍴 Restaurant Website](https://github.com/prithi2004/Restaurant-website-Wordpress-project) | A professional restaurant website using WordPress. | WordPress |
-| [🧠 Quiz App](https://github.com/prithi2004/Quiz-app-js) | Simple JS quiz app with score calculation. | HTML, CSS, JS |
-| [🌐 Portfolio Website](https://github.com/prithi2004/Portfolio-Website) | A responsive portfolio site built with HTML/CSS/JS. | HTML, CSS, JS |
+### 📌 Quick‑Poll System  
+- Built with **Flask** (backend) and **React** (frontend)  
+- Uses **SQLite** and REST API endpoints for CRUD ops  
+- Implemented live results display, user authentication, and responsive design
 
----
+### 📌 Chatbot with NLP  
+- Python‑based chatbot using NLTK & spaCy  
+- Performs intent detection and basic sentiment analysis
 
-## 🤝 Open Source Contributions
-
-- ✅ [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop/pull/**YOUR_PR_NUMBER**) – Added my profile to the BioDrop community!
+_(You can add links to GitHub repos and live demos for each project)_
 
 ---
 
-## 📫 How to Reach Me
+## 📊 GitHub Stats
 
-- 📧 Email: prithibabu2004@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/prithi-babu/)
-- 🗂️ [My own portfolio](https://prithi-portfolio.netlify.app/)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGithubUsername&show_icons=true&theme=radical)
 
 ---
 
-⭐ _Thanks for visiting my profile! I’m actively learning and building — open to collaboration and feedback._ ⭐
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)  
+[![Portfolio][(https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](https://yourwebsite.com](https://prithi-portfolio.netlify.app/))  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YourProfile)
+
+---
+
+## 🌱 Currently Learning
+
+- Cloud services: AWS  
+- DevOps: CI/CD pipelines using GitHub Actions  
+- Algorithms and Design Patterns
+
+---
+
+## 🧩 Fun Fact
+
+I'm a chess enthusiast 🧠 and enjoy participating in coding hackathons and DS-algorithms challenges.  
+
+---
+
+## 📚 What You’ll Find Here
+
+- Clean, well-documented repos with comprehensive README files  
+- Consistent and meaningful commit history  
+- Active contributions to open-source projects (issue/PRs welcome!)
+
+---
+
+*Let's connect! I’m open to collaboration, internships, or project ideas. 😊*
