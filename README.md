@@ -28,7 +28,7 @@
 ---
 
 ## 📌 Featured Projects
-🔹 [**WordPress Blog Project**](https://github.com/prithi2004/wordpress-blog) – A fully functional blog with custom theme & plugins.  
+🔹 [**WordPress Blog Project**]([https://github.com/prithi2004/wordpress-blog](https://github.com/prithi2004/Food-blog-wordpress-project)) – A fully functional blog with custom theme & plugins.  
 🔹 [**PHP Doctor Appointment System**](https://github.com/prithi2004/php-doctor-booking) – Doctor, patient, and admin panels with MySQL backend.  
 🔹 [**Restaurant Website (WordPress)**](https://github.com/prithi2004/wordpress-restaurant) – Responsive restaurant site with menu management.  
 🔹 [**Portfolio Website**](https://github.com/prithi2004/portfolio-website) – One-page responsive portfolio in HTML/CSS/JS.  
