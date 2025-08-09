@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prithi Babu  
 
-🚀 **Aspiring Software Engineer | PHP | JavaScript | WordPress | MySQL**  
+🚀 **Aspiring Software Engineer | PHP | JavaScript | WordPress | MySQL | React**  
 💻 Passionate about building functional, user-friendly, and scalable web solutions.  
 
 ---
@@ -8,6 +8,7 @@
 ## 🛠 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
