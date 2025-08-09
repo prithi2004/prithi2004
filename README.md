@@ -1,46 +1,36 @@
-<h1 align="center">Hi 👋, I'm Prithi</h1>
-<h3 align="center">A passionate Web developer with Knowlegde in javascript,react.js,php,wordpress(beginner)</h3>
+# 👋 Hi, I'm Prithi Babu  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prithi2004&label=Profile%20views&color=0e75b6&style=flat" alt="prithi2004" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithi2004" alt="prithi2004" /></a> </p>
-
-- 🌱 I’m currently learning **Wordpress,Mysql**
-
-- 👨‍💻 My Portfolio [https://protfolioprithi.netlify.app/](https://protfolioprithi.netlify.app/)
-
-- 💬 Ask me about **React.js,javascript**
-
-- 📫 How to reach me **prithibabu60@gmail.com**
-
-- 📄 My resume  [[[https://drive.google.com/file/d/1V5Q8Po8GdNbjzU5KySZR1FK-5uadg9dQ/view?usp=drivesdk](https://drive.google.com/file/d/1V5Q8Po8GdNbjzU5KySZR1FK-5uadg9dQ/view?usp=drivesdk)
-](https://drive.google.com/file/d/1c_9T9ZmdE_fNh8LRPAKi81mZH9IGC1n8/view?usp=drivesdk)](https://drive.google.com/file/d/1c_9T9ZmdE_fNh8LRPAKi81mZH9IGC1n8/view?usp=drivesdk)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithi2004&show_icons=true&locale=en&layout=compact" alt="prithi2004" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithi2004&show_icons=true&locale=en" alt="prithi2004" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithi2004&" alt="prithi2004" /></p>
-
-
-## 🧩 Fun Fact
-
-I'm a chess enthusiast 🧠 and enjoy participating in coding hackathons and DS-algorithms challenges.  
+🚀 **Aspiring Software Engineer | PHP | JavaScript | WordPress | MySQL**  
+💻 Passionate about building functional, user-friendly, and scalable web solutions.  
 
 ---
 
-## 📚 What You’ll Find Here
-
-- Clean, well-documented repos with comprehensive README files  
-- Consistent and meaningful commit history  
-- Active contributions to open-source projects (issue/PRs welcome!)
+## 🛠 Tech Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-*Let's connect! I’m open to collaboration, internships, or project ideas. 😊*
+## 📌 Projects
+🔹 [**WordPress Blog Project**](https://github.com/prithi2004/wordpress-blog) – A fully functional blog with custom theme & plugins.  
+🔹 [**PHP Doctor Appointment System**](https://github.com/prithi2004/php-doctor-booking) – Doctor, patient, and admin panels with MySQL backend.  
+🔹 [**Restaurant Website (WordPress)**](https://github.com/prithi2004/wordpress-restaurant) – Responsive restaurant site with menu management.  
+🔹 [**Portfolio Website**](https://github.com/prithi2004/portfolio-website) – One-page responsive portfolio in HTML/CSS/JS.  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prithi2004&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prithi2004&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://YOUR-PORTFOLIO-LINK)  
+
+💡 _“Code is like humor. When you have to explain it, it’s bad.”_  
