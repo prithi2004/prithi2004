@@ -11,7 +11,7 @@
 - 🌱 Currently learning **advanced React, REST APIs, and custom WordPress development**.  
 - 🛠 Love creating projects that solve problems and improve user experiences.  
 - 📍 Based in India, open to **remote and on-site opportunities**.  
-- ⚡ Fun fact: I debug faster with a cup of coffee ☕ and lo-fi music 🎧.
+- 💡 Fun fact: Dark mode isn’t just a theme — it’s a lifestyle. 🌙🖤
 
 ---
 
