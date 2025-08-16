@@ -5,7 +5,6 @@
 🎯 Currently focusing on **WordPress development** & **full-stack projects** to sharpen my skills for real-world applications.  
 
 ---
-
 ## 🧑‍💻 About Me
 - 💼 Final-year student aspiring to work as a **Full-Stack or WordPress Developer**.  
 - 🌱 Currently learning **advanced React, REST APIs, and custom WordPress development**.  
@@ -53,7 +52,6 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prithi2004&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prithi2004&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Connect with Me
