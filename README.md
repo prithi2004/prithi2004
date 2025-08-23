@@ -4,14 +4,14 @@
 
 ---
 
-# 🌟 About Me  
+## 🌟 About Me  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=💻+Frontend+Developer;🚀+Aspiring+Full-Stack+Engineer;📚+Lifelong+Learner;🌍+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
 
-# 🏆 Achievements  
+## 🏆 Achievements  
 - ✅ Built **5+ Full-Stack & WordPress Projects**  
 - ✅ Contributed to **open-source repositories**  
 - ✅ Completed multiple projects with **React & PHP**  
@@ -19,14 +19,15 @@
 
 ---
 
-# 🛠️ Tech Stack  
+## 🛠️ Tech Stack  
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,wordpress,git,github,vscode,tailwind,nodejs" />
 </p>
 
 ---
 
-# 📂 Featured Projects  
+## 📂 Featured Projects  
 <p align="center">
   <a href="https://github.com/prithi2004/movie-explorer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=prithi2004&repo=movie-explorer&theme=radical" />
@@ -38,7 +39,8 @@
 
 ---
 
-# 📊 GitHub Stats  
+## 📊 GitHub Stats  
+
 <div align="center">
   
 ![Prithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=prithi2004&show_icons=true&theme=radical&cache_seconds=86400)  
@@ -53,7 +55,7 @@
 
 ---
 
-# 🚀 Learning Goals for 2025  
+## 🚀 Learning Goals for 2025  
 - 🔹 Master **Next.js & Advanced React**  
 - 🔹 Learn **Docker & Deployment (Vercel, Netlify, AWS)**  
 - 🔹 Contribute more to **Open Source**  
@@ -61,12 +63,12 @@
 
 ---
 
-# ⚡ Fun Fact  
+## ⚡ Fun Fact  
 > I love debugging more than coding — fixing bugs feels like solving puzzles 🧩🔥  
 
 ---
 
-# 🌐 Connect With Me  
+## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/prithi2004"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:prithi2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
