@@ -5,8 +5,8 @@
 ---
 
 ## 👋 About Me  
-- 💻 Frontend Developer | Aspiring Full-Stack Engineer  
-- ⚡ Passionate about JavaScript, React, PHP, MySQL, and WordPress  
+ 💻 Frontend Developer | Aspiring Full-Stack Engineer  
+ ⚡ Passionate about JavaScript, React, PHP, MySQL, and WordPress  
 - 🚀 Actively contributing to **Open Source** and building projects for 2025 hiring  
 - 🎯 Goal: Join as an **Associate Software Engineer** at rtCamp  
 - 🌱 Currently learning **Next.js, Tailwind CSS, and REST APIs**  
