@@ -64,8 +64,8 @@
 
 ## 🚀 Learning Goals for 2025  
 🔹 Master **Next.js & Advanced React Patterns**  
- 🔹 Learn **Docker & Deployment (Vercel, Netlify, AWS)**  
- 🔹 Contribute more to **Open Source Projects**  
+🔹 Learn **Docker & Deployment (Vercel, Netlify, AWS)**  
+🔹 Contribute more to **Open Source Projects**  
 🔹 Build a **portfolio of 10+ professional projects**  
 
 ---
