@@ -16,7 +16,7 @@
 ## 🏆 Achievements  
  ✅ Built **5+ Full-Stack & WordPress Projects**  
  ✅ Contributed to **open-source repositories**  
-- ✅ Completed multiple projects with **React & PHP**  
+ ✅ Completed multiple projects with **React & PHP**  
 - 🥇 Consistently improving GitHub profile for **developer visibility**  
 
 ---
