@@ -43,8 +43,8 @@
 
  🎬 **Movie Explorer (React + API)** – Explore movies with search & filters  
  🏥 **Doctor Appointment Booking (PHP + MySQL)** – Full-stack system with admin/patient/doctor panels  
-- 🍴 **Restaurant Website (WordPress)** – Responsive WP site with theme & plugins  
-- 📝 **Blog Website (WordPress)** – Blog project with free theme and SEO plugins  
+ 🍴 **Restaurant Website (WordPress)** – Responsive WP site with theme & plugins  
+ 📝 **Blog Website (WordPress)** – Blog project with free theme and SEO plugins  
 
 👉 More on my [GitHub Repositories](https://github.com/prithi2004?tab=repositories)
 
