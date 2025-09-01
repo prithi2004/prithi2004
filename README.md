@@ -8,7 +8,7 @@
 🚀 Passionate about PHP, JavaScript, MySQL, and Open Source  
 📚 Currently building projects in **WordPress, React, and MySQL**  
 🌱 Exploring **Full Stack Development** to grow into a complete developer  
-📩 Reach me at: **your-email@example.com**  
+📩 Reach me at: **prithibabu60@gmail.com**  
 
 ---
 
