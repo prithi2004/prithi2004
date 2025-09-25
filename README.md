@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Prithi Babu</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, I'm Prithi Babu</h1>
 <h3 align="center">Aspiring Software Engineer | Passionate about Web Development & Open Source</h3>
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **DSA, PHP, JavaScript, WordPress**
-- 💻 Building projects in **Full Stack Development**
-- 📫 Reach me at **your.email@example.com**
-- 🔭 Open to **Internships / Entry-level Roles**
-- 🤝 Love contributing to **Open Source**
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🌱 Currently learning **DSA, PHP, JavaScript, WordPress**  
+- 💻 Building projects in **Full Stack Development**  
+- 📫 Reach me at **your.email@example.com**  
+- 🔭 Open to **Internships / Entry-level Roles**  
+- 🤝 Love contributing to **Open Source**  
 
 ---
 
@@ -17,6 +19,10 @@
 - 🍕 Can survive on pizza & coffee while debugging  
 - 🧩 Love solving tricky coding puzzles  
 - 🏆 Believe in *“One bug at a time, one win at a time”*  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
+</p>
 
 ---
 
@@ -32,6 +38,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithi2004&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 ---
 
 ### 🌟 Contribution Graph
