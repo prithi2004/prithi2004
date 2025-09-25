@@ -3,8 +3,9 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="400" alt="Full Stack Development">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="400" alt="Software Development">
 </p>
+
 
 ---
 
