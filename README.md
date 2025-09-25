@@ -32,7 +32,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithi2004&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 ---
 
 ### 🌟 Contribution Graph
