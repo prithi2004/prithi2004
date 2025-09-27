@@ -11,7 +11,7 @@
 ### 🚀 About Me
 - 🌱 Currently learning **DSA, PHP, JavaScript, WordPress**  
 - 💻 Building projects in **Full Stack Development**  
-- 📫 Reach me at **your.email@example.com**  
+- 📫 Reach me at **prithibabu60@gmail.com**  
 - 🔭 Open to **Internships / Entry-level Roles**  
 - 🤝 Love contributing to **Open Source**  
 
