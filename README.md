@@ -14,7 +14,6 @@
 - 📫 Reach me at **prithibabu60@gmail.com**  
 - 🔭 Open to **Internships / Entry-level Roles**  
 - 🤝 Love contributing to **Open Source**  
-
 ---
 
 ### ⚡ Fun Fact
