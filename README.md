@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **DSA, PHP, JavaScript, WordPress**  
+- 🌱 Currently learning **DSA*  
 - 💻 Building projects in **Full Stack Development**  
 - 📫 Reach me at **prithibabu60@gmail.com**  
 - 🔭 Open to **Internships / Entry-level Roles**  
