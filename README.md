@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
- <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" alt="Laptop Animation">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400" alt="Brain Coding">
 
 </p>
 
