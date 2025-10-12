@@ -2,24 +2,34 @@
 <h3 align="center">Aspiring Software Engineer | Passionate about Web Development & Open Source</h3>
 
 ---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Matrix Coding">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding Animation">
 </p>
+
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **DSA*  
-- 💻 Building projects in **Full Stack Development**  
-- 📫 Reach me at **prithibabu60@gmail.com**  
-- 🔭 Open to **Internships / Entry-level Roles**  
-- 🤝 Love contributing to **Open Source**  
+- 🌱 Currently learning **Data Structures & Algorithms (DSA)**
+- 💻 Exploring **Full Stack Web Development**
+- 🔭 Open to **Internships / Entry-level Software Engineering Roles**
+- 🤝 Passionate about **Open Source Contributions**
+- 📫 Reach me at **prithibabu60@gmail.com**
+
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fun Facts
 - 🎧 I code better with music on  
 - 🍕 Can survive on pizza & coffee while debugging  
-- 🧩 Love solving tricky coding puzzles  
-- 🏆 Believe in *“One bug at a time, one win at a time”*  
+- 🧩 Love solving coding challenges  
+- 🏆 Motto: *“One bug at a time, one win at a time”*  
+
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,react,nodejs,mysql,git,github,vscode" />
+</p>
 
 ---
 
@@ -45,15 +55,18 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,react,nodejs,mysql,git,github,vscode" />
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/prithibabu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:prithibabu60@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🔗 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.prithibabu60@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+  <i>⭐ “Keep learning, keep building, keep contributing!” ⭐</i>
 </p>
