@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prithi Babu</h1>
+<h1 align="center">Hi 👋, I'm Prithi.B</h1>
 <h3 align="center">Aspiring Software Engineer | Passionate about Web Development & Open Source</h3>
 
 ---
