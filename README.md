@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prithi.B</h1>
-<h3 align="center">Aspiring Software Engineer | Passionate about Web Development &</h3>
+<h3 align="center">Aspiring Software Engineer | Passionate about Web Development </h3>
 
 ---
 
