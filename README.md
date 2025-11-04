@@ -24,7 +24,10 @@
 - 🎧 I code better with music on  
 - 🍕 Can survive on pizza & coffee while debugging  
 - 🧩 Love solving coding challenges  
-- 🏆 Motto: *“One bug at a time, one win at a time”*  
+- 🏆 Motto: *“One bug at a time, one win at a time”*
+- 💻 Aspiring WordPress Developer passionate about PHP, JavaScript, and MySQL.
+- 🚀 Focused on building scalable web solutions and contributing to open source.
+
 
 ---
 
