@@ -1,77 +1,31 @@
-<h1 align="center">Hi 👋, I'm Prithi.B</h1>
-<h3 align="center">Aspiring Software Engineer | Passionate about Web Development </h3>
+# 👋 Hi, I'm Prithi Babu  
 
----
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
-
-
-</p>
-
----
-
-### 🚀 About Me
-- 🌱 Currently learning **Data Structures & Algorithms (DSA)**
-- 💻 Exploring **Full Stack Web Development**
-- 🔭 Open to **Internships / Entry-level Software Engineering Roles**
-- 🤝 Passionate about **Open Source Contributions**
-- 📫 Reach me at **prithibabu60@gmail.com**
-
----
-
-### ⚡ Fun Facts
-- 🎧 I code better with music on  
-- 🍕 Can survive on pizza & coffee while debugging  
-- 🧩 Love solving coding challenges  
-- 🏆 Motto: *“One bug at a time, one win at a time”*
-- 💻 Aspiring WordPress Developer passionate about PHP, JavaScript, and MySQL.
-- 🚀 Focused on building scalable web solutions and contributing to open source.
-
-
----
-
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,react,nodejs,mysql,git,github,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prithi2004&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prithi2004&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithi2004&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🌟 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prithi2004&theme=tokyo-night" alt="Contribution Graph" />
-</p>
+💻 Aspiring **WordPress Developer** skilled in **PHP, MySQL, JavaScript, HTML, and CSS**.  
+🚀 Passionate about building and customizing **WordPress themes & plugins**.  
+🌱 Currently improving my **open-source and GitHub contributions** for **rtCamp selection**.
 
 ---
 
 ### 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/prithibabu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:prithibabu60@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+📧 **prithibabu2004@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/prithibabu2004/)  
+🐙 [GitHub](https://github.com/prithi2004)
 
 ---
 
-<p align="center">
-  <i>⭐ “Keep learning, keep building, keep contributing!” ⭐</i>
-</p>
+### 🚀 Top Projects
+- [🍽️ Restaurant Website (WordPress)](https://github.com/prithi2004/Restaurant-website-wordpress-project)  
+- [📰 Food Blog (WordPress)](https://github.com/prithi2004/Food-blog-wordpress-project)  
+- [💊 Doctor Appointment System (PHP + MySQL)](https://github.com/prithi2004/Doctor-Appointment-System-PHP-MySQL)
+
+---
+
+### 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=prithi2004&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prithi2004&layout=compact&theme=tokyonight)
+
+---
+
+✨ *"Code. Contribute. Create — every commit takes you closer to rtCamp!"* ✨
