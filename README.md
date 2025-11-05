@@ -34,15 +34,13 @@
 
 ---
 
-### 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-| 🧩 Project | 💬 Description |
-|-------------|----------------|
-| [🍽️ Restaurant Website (WordPress)](https://github.com/prithi2004/Restaurant-website-wordpress-project) | A responsive restaurant website built using WordPress and custom theme styling. |
-| [📰 Food Blog (WordPress)](https://github.com/prithi2004/Food-blog-wordpress-project) | A modern WordPress blog site with category-based post layout and comment system. |
-| [💊 Doctor Appointment System (PHP + MySQL)](https://github.com/prithi2004/Doctor-Appointment-System-PHP-MySQL) | A CRUD-based appointment system with patient, doctor, and admin panels. |
-
----
+| Project Name | Description | Tech Stack | Live Demo / Repo |
+|---------------|-------------|-------------|------------------|
+| 🌐 WordPress Blog | A responsive blog built using Astra theme & Elementor | WordPress, PHP, MySQL | [View Repo](https://github.com/prithi2004/wordpress-blog) |
+| 🍽️ Restaurant Website | A restaurant site using WordPress and custom plugins | WordPress, HTML, CSS | [View Repo](https://github.com/prithi2004/restaurant-website) |
+| 🧠 JS Mini Projects | Collection of JavaScript practice projects | JS, HTML, CSS | [View Repo](https://github.com/prithi2004/js-projects) |
 
 ## 📊 GitHub Stats
 
