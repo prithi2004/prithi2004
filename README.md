@@ -42,6 +42,20 @@
 | 🍽️ Restaurant Website | A restaurant site using WordPress and custom plugins | WordPress, HTML, CSS | [View Repo](https://github.com/prithi2004/restaurant-website) |
 | 🧠 JS Mini Projects | Collection of JavaScript practice projects | JS, HTML, CSS | [View Repo](https://github.com/prithi2004/js-projects) |
 
+
+---
+
+### 🏆 GitHub Achievements & Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prithi2004&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prithi2004&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithi2004&layout=compact&theme=tokyonight" height="165" />
+</p>
+
 ## 📊 GitHub Stats
 
 ![Prithi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prithi2004&show_icons=true&theme=radical)
