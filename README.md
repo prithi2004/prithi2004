@@ -13,7 +13,7 @@
 
 ### 🌟 About Me  
 
-💻 I’m an **Aspiring WordPress Developer** passionate about creating modern and user-friendly web solutions.  
+💻 I’m an **Aspiring Full Stack Developer** passionate about creating modern and user-friendly web solutions.  
 🚀 Skilled in **PHP, MySQL, JavaScript, HTML, and CSS**, with a growing focus on **WordPress development**.  
 🧩 Love building full-stack mini projects and contributing to open source.  
 
