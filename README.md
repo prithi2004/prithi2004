@@ -78,7 +78,6 @@
 </p>
 
 ---
-
 <h3 align="center">🐍 GitHub Contribution Snake</h3>
 <p align="center">
   <img src="https://github.com/prithi2004/prithi2004/blob/output/snake.svg" alt="GitHub Contribution Snake"/>
